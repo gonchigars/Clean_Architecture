@@ -29,12 +29,14 @@ my-fastapi-app
 ## Installation
 
 1. Clone the repository:
+
    ```
    git clone <repository-url>
    cd my-fastapi-app
    ```
 
 2. Create a virtual environment and activate it:
+
    ```
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
